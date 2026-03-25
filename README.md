@@ -39,5 +39,5 @@ El archivo está organizado en secciones:
 - Consultas analíticas
 
 ## Autor
-Braulio Alejandro Mercado Capulin
+Braulio Alejandro Mercado Capulin / 
 LinkedIn: www.linkedin.com/in/braulio-a-mercado
